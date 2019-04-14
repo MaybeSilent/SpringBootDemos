@@ -20,7 +20,7 @@ HELP.md
 *.iws
 *.iml
 *.ipr
-
+.gitignore
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
