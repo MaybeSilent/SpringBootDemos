@@ -1,0 +1,2 @@
+## SpringBoot与MybatisGenerator框架集成的demo
+利用mybatisGenerator可以生成相应数据库的mapper和相应的dao接口
